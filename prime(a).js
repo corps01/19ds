@@ -14,4 +14,6 @@ function primeNumbers(n) {
     return array;
 }
 
+console.log(primeNumbers(10))
+
 //O(f(n^2))
